@@ -12,3 +12,4 @@ W3School에서 배운 php문법을 블로그글 주소와 함께 이 저장소�
 
 ### php 기본
   * php 기본 1 : <a href="https://juniorprogram.tistory.com/72">코드에 주석 넣기</a>
+  * php 기본 2 : <a href="https://juniorprogram.tistory.com/74">화면에 출력하기</a>
