@@ -16,3 +16,4 @@ php문법은 W3School에서도 가능하지만 본인 PC에서 직접하고 싶�
 ### php 기본
   * php 기본 1 : <a href="https://juniorprogram.tistory.com/72">코드에 주석 넣기</a>
   * php 기본 2 : <a href="https://juniorprogram.tistory.com/74">화면에 출력하기</a>
+  * php 기본 3 : <a href="https://juniorprogram.tistory.com/77">기본형의 종류</a>
