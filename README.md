@@ -15,13 +15,13 @@ php문법은 W3School에서도 가능하지만 본인 PC에서 직접하고 싶�
 <a href="https://juniorprogram.tistory.com/71">개발환경 설정하기(Bitnami)</a><br>
 
 ### chapter1 (php 기본)
-  * ch1-1 : <a href="https://juniorprogram.tistory.com/72">코드에 주석 넣기</a>
-  * ch1-2 : <a href="https://juniorprogram.tistory.com/74">화면에 출력하기</a>
-  * ch1-3 : <a href="https://juniorprogram.tistory.com/77">기본형의 종류</a>
-  * php 기본 4 : <a href="https://juniorprogram.tistory.com/79">문자열 함수</a>
-  * php 기본 5 : <a href="https://juniorprogram.tistory.com/82">숫자 표현하기</a>
-  * php 기본 6 : <a href="https://juniorprogram.tistory.com/84">수학 표현하기</a>
-  * php 기본 7 : <a href="https://juniorprogram.tistory.com/86">상수 표현하기</a>
+  * ch1-1 튜토리얼 설명 : <a href="https://juniorprogram.tistory.com/72">코드에 주석 넣기</a>
+  * ch1-2 튜토리얼 설명 : <a href="https://juniorprogram.tistory.com/74">화면에 출력하기</a>
+  * ch1-3 튜토리얼 설명 : <a href="https://juniorprogram.tistory.com/77">기본형의 종류</a>
+  * ch1-4 튜토리얼 설명 : <a href="https://juniorprogram.tistory.com/79">문자열 함수</a>
+  * ch1-5 튜토리얼 설명 : <a href="https://juniorprogram.tistory.com/82">숫자 표현하기</a>
+  * ch1-6 튜토리얼 설명 : <a href="https://juniorprogram.tistory.com/84">수학 표현하기</a>
+  * ch1-7 튜토리얼 설명 : <a href="https://juniorprogram.tistory.com/86">상수 표현하기</a>
 
 ### chapter2 (php class)
-  * ch2-1 : <a href="https://juniorprogram.tistory.com/96">클래스와 객체 사용하기</a>
+  * ch2-1 튜토리얼 설명 : <a href="https://juniorprogram.tistory.com/96">클래스와 객체 사용하기</a>
