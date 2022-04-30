@@ -20,7 +20,7 @@
                     		$this->fish, // 멤버변수 $fish
                         	$this->meet, // 멤버변수 $meet
                         	$this->vegetable // 멤버변수 $vegetable
-                    	);
+                    	);// array end
                 } // sale function end
             } // mart class end
             
