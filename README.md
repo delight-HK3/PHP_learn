@@ -7,6 +7,7 @@
 >사용한 서버 : apache server<br>
 >사용한 Tool : visual studio code<br>
 >사용한 강의 주소 : <a href="https://www.w3schools.com/php/php_ref_overview.asp">W3School</a> 강의를 사용했습니다.<br>
+>테스트한 OS : Window 10<br>
 <br>
 
 W3School에서 배운 php문법을 블로그글 주소와 함께 이 저장소에 저장하겠습니다. <br>
