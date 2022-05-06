@@ -1,6 +1,6 @@
+<!DOCTYPE html>
 <html>
 	<body>
-
         <?php
             class mart{ // mart 클래스 선언
                 function __construct(){ 
@@ -10,6 +10,6 @@
                 }
             }
         	$cash = new mart(); // 객체생성
-		?>
+	?>
 	</body>
 </html>
