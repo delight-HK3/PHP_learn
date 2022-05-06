@@ -28,4 +28,4 @@ php문법은 W3School에서도 가능하지만 본인 PC에서 직접하고 싶�
   * ch2-1 튜토리얼 설명 : <a href="https://juniorprogram.tistory.com/96">클래스와 객체 사용하기</a>
   * ch2-2 튜토리얼 설명 : <a href="https://juniorprogram.tistory.com/97">접근 제어자</a>
   * ch2-3 튜토리얼 설명 : <a href="https://juniorprogram.tistory.com/109">생성자(construct)</a>
-  * ch2-4 튜토리얼 설명 : <a href="https://juniorprogram.tistory.com/110">소멸자(destruct )</a>
+  * ch2-4 튜토리얼 설명 : <a href="https://juniorprogram.tistory.com/110">소멸자(destruct)</a>
