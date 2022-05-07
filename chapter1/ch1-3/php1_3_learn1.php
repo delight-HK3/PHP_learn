@@ -1,6 +1,5 @@
+<!DOCTYPE html>
 <html>
-	<head>
-	</head>
 	<body>
 		<?php
 			$str1 = "hello"; 
