@@ -1,6 +1,5 @@
+<!DOCTYPE html>
 <html>
-    <head>
-    </head>
     <body>
         <?php
             echo str_replace("Hello","world", "Hello Dolly"); // world Dolly
