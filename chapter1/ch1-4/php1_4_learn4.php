@@ -1,6 +1,5 @@
+<!DOCTYPE html>
 <html>
-    <head>
-    </head>
     <body>
         <?php
             echo strpos("Hello new world a w","new"); // 6
