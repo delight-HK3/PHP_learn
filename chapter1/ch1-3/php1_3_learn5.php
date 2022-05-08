@@ -1,6 +1,5 @@
+<!DOCTYPE html>
 <html>
-	<head>
-	</head>
 	<body>
 		<?php
 			$arraytest = array("phpArray1","phpArray1",10);
