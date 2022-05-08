@@ -1,6 +1,5 @@
+<!DOCTYPE html>
 <html>
-	<head>
-	</head>
 	<body>
 		<?php
 			$x; // 자동으로 NULL이 할당 됩니다.
