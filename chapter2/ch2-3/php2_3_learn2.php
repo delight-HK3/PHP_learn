@@ -25,7 +25,8 @@
                 } // sale function end
             } // mart class end
             
-            $cash = new mart("beef","salmon","potato"); // 객체생성
+            $cash = new mart("beef","salmon","potato"); 
+	    // 객체 cash를 mart형으로 생성및 선언한 후 초기화
             list($food1,$food2,$food3) = $cash->sale(); // 리턴된 배열을 list에 저장
            	
             echo $food1."<br>".$food2."<br>".$food3;
