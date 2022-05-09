@@ -1,6 +1,5 @@
+<!DOCTYPE html>
 <html>
-	<head>
-	</head>
 	<body>
 		<?php
 			echo is_finite(10); // 1
