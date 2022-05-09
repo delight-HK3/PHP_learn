@@ -1,6 +1,5 @@
+<!DOCTYPE html>
 <html>
-    <head>
-    </head>
     <body>
         <?php
             echo(round(2.60));  // returns 3
