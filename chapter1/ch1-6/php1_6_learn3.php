@@ -1,6 +1,6 @@
+
+<!DOCTYPE html>
 <html>
-    <head>
-    </head>
     <body>
         <?php
             echo(abs(-6.7));  // 절대값을 반환 6.7
