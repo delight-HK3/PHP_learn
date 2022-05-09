@@ -1,6 +1,5 @@
+<!DOCTYPE html>
 <html>
-	<head>
-	</head>
 	<body>
 		<?php
 			var_dump(is_int(10)); // bool(true)
