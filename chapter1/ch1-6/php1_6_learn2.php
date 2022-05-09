@@ -1,6 +1,6 @@
+
+<!DOCTYPE html>
 <html>
-    <head>
-    </head>
     <body>
         <?php
             echo min(0, 10, -10, 30, -11, 20); // -11
