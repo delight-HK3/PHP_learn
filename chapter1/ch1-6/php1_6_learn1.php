@@ -1,6 +1,6 @@
+
+<!DOCTYPE html>
 <html>
-    <head>
-    </head>
     <body>
         <?php
             //파이함수
