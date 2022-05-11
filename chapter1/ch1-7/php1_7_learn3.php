@@ -1,6 +1,5 @@
+<!DOCTYPE html>
 <html>
-    <head>
-    </head>
     <body>
         <?php
             define("Test", ["Array1", "Array2", "Array3"]);
