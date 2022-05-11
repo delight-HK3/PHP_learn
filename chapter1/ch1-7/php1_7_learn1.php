@@ -1,6 +1,5 @@
+<!DOCTYPE html>
 <html>
-    <head>
-    </head>
     <body>
         <?php
             define("TEST", "define test2");
