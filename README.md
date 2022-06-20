@@ -3,9 +3,9 @@
 >사용한 프레임워크 : 없음<br>
 >사용한 언어 : PHP 8<br>
 >사용한 DB : mariadb<br>
->사용한 DBMS : phpMyAdmin<br>
+>사용한 DBMS : MySQL<br>
 >사용한 서버 : apache server<br>
->사용한 Tool : visual studio code<br>
+>개발 Tool : visual studio code<br>
 >사용한 강의 주소 : <a href="https://www.w3schools.com/php/php_ref_overview.asp">W3School</a> 강의를 사용했습니다.<br>
 >테스트한 OS : Window 10<br>
 <br>
